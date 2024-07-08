@@ -1,0 +1,8 @@
+git checkout main
+git merge feature-branch
+
+Switch to Main Branch: Use 'git checkout main'
+
+merge: Use 'git merge feature-branch'
+
+Resolve Conflicts: If there are conflicts, Git will prompt you to resolve them before completing the merge
